@@ -1,3 +1,9 @@
+body {
+    text-align: center;
+    font-size : 100px;
+}
+
+
 td {
     border: 2px solid blue;
     width : 200px;
